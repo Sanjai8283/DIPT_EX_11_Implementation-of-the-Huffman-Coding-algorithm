@@ -192,7 +192,7 @@ for char, code in huffman_codes.items():
 
 # Output :
 
-<img width="257" height="326" alt="image" src="https://github.com/user-attachments/assets/55833688-2a44-473d-81eb-063e404b4b58" />
+<img width="220" height="132" alt="image" src="https://github.com/user-attachments/assets/249e7201-23f4-4fdd-9c57-208fb395a5ac" />
 
 
 
