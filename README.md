@@ -1,6 +1,6 @@
 # Exp - 11 ( Implementation-of-the-Huffman-Coding-algorithm )
-# Name : Tamizhselvan B
-# Reg. no : 212223230225 
+# Name : Sanjai S
+# Reg. no : 212223230185
 
 
 # Aim :
